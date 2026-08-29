@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+
+# Emulator runtime artifacts (sockets, logs, volatile state)
+*.sock
+emu/*.log
+
+# Copyrighted ROM images — never distribute
+*.img
+
+# Raw memory dumps (contain ROM data)
+emu/*.bin
+emu/mem.bin
+
+# Playwright runtime
+test/.playwright/

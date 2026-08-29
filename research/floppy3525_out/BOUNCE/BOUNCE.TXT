@@ -1,0 +1,17 @@
+Bouncing Boubles is a Public Domain release from West Germany.  
+The author is Paul Bininda.
+     The object of the game is simple enough; Kill or be killed!  
+To control your blaster ship, the <A> and <S> keys move it from 
+side to side.  The <Spacebar> key fires.  If you want to use a 
+joystick you can (but the keyboard is faster!).  
+
+------------------------------------------------------------------
+If you are interested in more PD software from West Germany, I 
+have a growing selection of programs.  I provide the software plus 
+the translated documentation for a nominal charge.  For 
+information write or call:
+                         Robert Zimmerer
+                         131 W 2nd Street
+                     Port Angeles, WA  98362
+                          (206) 452-7529
+------------------------------------------------------------------
