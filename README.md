@@ -64,3 +64,15 @@ No build step, no dependencies.
   level for observation).
 - `research/` — downloaded disk images, extracted files, disassembly notes.
 - `test/` — Playwright end-to-end tests and comparison screenshots.
+
+## License
+
+The original code in this repository (the web app, the tooling, the tests) is
+released under the [MIT License](LICENSE).
+
+The included original game binary (`BOUNCE.PRG`) and its documentation are
+redistributed under their author's own release terms: *Bouncing Boubles* by
+Paul Bininda, 1987, declared a **Public Domain release** by the author (see
+`research/floppy3525_out/BOUNCE/BOUNCE.TXT`) and distributed as
+freeware/PD across the Atari ST library scene. All rights with respect to
+that binary remain with its author.
