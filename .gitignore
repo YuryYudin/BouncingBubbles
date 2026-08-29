@@ -12,5 +12,8 @@ emu/*.log
 emu/*.bin
 emu/mem.bin
 
+# Python bytecode
+__pycache__
+
 # Playwright runtime
 test/.playwright/
