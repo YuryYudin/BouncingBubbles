@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #111;
+  height: 100%;
+  overflow: hidden;
+}
+#wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#screen {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  background: #fff;
+  cursor: crosshair;
+  touch-action: none;
+}
